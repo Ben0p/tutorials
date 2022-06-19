@@ -1,0 +1,86 @@
+[
+  {
+    "id": 1,
+    "name": "Wednesday Collection 2021",
+    "wednesdays": [
+      {
+        "id": 1,
+        "name": "Wednesday 03/11/2021",
+        "views": 69,
+        "rating": 5,
+        "numberOfReviews": 420,
+        "price": 5,
+        "image": "https://img-9gag-fun.9cache.com/photo/aNPv60G_460s.jpg"
+      },
+      {
+        "id": 2,
+        "name": "Wednesday 10/11/2021",
+        "views": 69,
+        "rating": 5,
+        "numberOfReviews": 420,
+        "price": 7,
+        "image": "https://i.redd.it/11988evb9mn61.png"
+      },
+      {
+        "id": 3,
+        "name": "Wednesday 17/11/2021",
+        "views": 69,
+        "rating": 5,
+        "numberOfReviews": 420,
+        "price": 4,
+        "image": "https://64.media.tumblr.com/49344584043c4c04a0910db853c53538/tumblr_o3uneolvll1vn7e6po1_500.jpg"
+      },
+      {
+        "id": 4,
+        "name": "Wednesday 24/11/2021",
+        "views": 69,
+        "rating": 5,
+        "numberOfReviews": 420,
+        "price": 8,
+        "image": "https://pbs.twimg.com/media/FVSd0pvXsAAHlbp?format=jpg&name=small"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Wednesday Collection 2022",
+    "wednesdays": [
+      {
+        "id": 1,
+        "name": "Wednesday 05/01/2022",
+        "views": 69,
+        "rating": 5,
+        "numberOfReviews": 420,
+        "price": 2,
+        "image": "https://pbs.twimg.com/media/FUuxpoYX0AA7rKq?format=jpg&name=small"
+      },
+      {
+        "id": 2,
+        "name": "Wednesday 12/01/2022",
+        "views": 69,
+        "rating": 5,
+        "numberOfReviews": 420,
+        "price": 5,
+        "image": "https://img-9gag-fun.9cache.com/photo/anQVxdV_460s.jpg"
+      },
+      {
+        "id": 3,
+        "name": "Wednesday 19/01/2022",
+        "views": 69,
+        "rating": 5,
+        "numberOfReviews": 420,
+        "price": 9,
+        "image": "https://i.imgur.com/qcw7EWB.jpg"
+      },
+      {
+        "id": 4,
+        "name": "Wednesday 26/01/2022",
+        "views": 69,
+        "rating": 5,
+        "numberOfReviews": 420,
+        "price": 7,
+        "image": "https://preview.redd.it/zidafri2z2b61.jpg?auto=webp&s=e2e7a2fb03664e603c6dec9361872b7e9fe17da8"
+      }
+    ]
+  }
+]
